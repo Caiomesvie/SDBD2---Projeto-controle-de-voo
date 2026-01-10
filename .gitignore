@@ -1,3 +1,4 @@
 .venv/
 .vscode/
 __pycache__/
+postgresql-42.2.18.jar
