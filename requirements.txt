@@ -1,0 +1,16 @@
+folium
+geopandas
+ipython
+jupyterlab
+matplotlib
+numpy
+pandas
+pandoc
+plotly
+psycopg[binary,pool]
+pycountry
+seaborn
+reverse_geocoder
+scikit-learn
+missingno
+dotenv
