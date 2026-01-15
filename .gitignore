@@ -4,3 +4,4 @@ venv/
 __pycache__/
 *.csv
 *.xlsx
+raw/data_raw/MICRODADOS_ENEM_2021.csv
